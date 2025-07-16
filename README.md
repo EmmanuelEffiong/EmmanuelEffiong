@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @EmmanuelEffiong, born and raised in Austin, Texas that likes to add a sprinle of Kanye in alot of the things I do.
-- 👀 I’m interested in learning the necessary skills to become a software engineer.
-- 🌱 I’m currently learning Programming for web development. I have practice with HTML, CSS, Bootstrap and JS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Insta: @emmanuel_eff; Twitter: @emmanuel_eff;
+🚀 Data Engineering Apprentice | Building cloud-native pipelines with Python, SQL & AWS
+
+📍 Based in Austin, TX | Former accountant turned infrastructure architect in the making
+
+🛠 Tech Stack: Python | SQL | AWS | Airflow | Spark | Docker | Git
+
+🧠 Currently Learning: Data Engineering, MLOps, Cloud Infrastructure
+
+👷🏾‍♂️ Projects Coming Soon: ETL pipelines, real-time data workflows, and a little AI sauce
+
+📫 Contact: @emmanuel_eff (IG & Twitter)
+
 
 <!---
 EmmanuelEffiong/EmmanuelEffiong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
